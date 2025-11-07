@@ -1,0 +1,7 @@
+
+insightface>=0.7.3
+opencv-python>=4.8.0.74
+numpy>=1.23.0
+faiss-cpu>=1.7.4
+onnxruntime>=1.16.0
+PyYAML>=6.0.1
